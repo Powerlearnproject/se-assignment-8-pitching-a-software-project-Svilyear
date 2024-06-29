@@ -87,7 +87,15 @@ Expense Manager can help reduce financial management time by 50%, improve cash f
 Market analysis is crucial in a software project pitch because it help to know the size and projected growth.It also pin points reasons for an opportunity for your software such as Technology advancement or consumer behaviour
 Target market audience is also important such as demographic patterns, or specific need the softwares addresses.
 
+  1. Current Market Size.
 
+  2. Target market segments 
+
+  3. Competitive Analysis
+
+  4.Regulatory and Legal Considerations
+
+  5. Market Trends 
 
 5. Unique Selling Proposition (USP):
    - Explain the concept of a Unique Selling Proposition (USP). How do you identify and articulate your software project's USP in your pitch?
